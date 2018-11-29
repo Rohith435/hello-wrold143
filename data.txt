@@ -4,6 +4,6 @@ create table emps(empid int constraint ID_PK primary key, empname varchar(25), l
 insert into emps values (1, 'rohith', 'Hyd', 35000)
 insert into emps values (2, 'harish', 'Banglore', 21500)
 insert into emps values (3, 'prakash', 'Chennai', 26000)
-insert into emps values (4, 'durgarao', 'Hyd', 29000)
 
 --select * from emps
+
